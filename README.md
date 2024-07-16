@@ -1,0 +1,1 @@
+- Hi, I'm Ian Battles! I am a student at Northeastern University studying environmental science & data science, with a specific interest in GIS
